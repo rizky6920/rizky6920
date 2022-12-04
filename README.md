@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rizky Ramadhan / Kidan
-- 👀 I’m interested in Marine Science & Technology, GIS, and Data Analyst.
+- 👀 I’m interested in Marine Science & Technology, GIS, and Data Analytics.
 - 🌱 I’m currently learning SQL and Python.
 - 📫 Reach me on LinkedIn (https://id.linkedin.com/in/rizkyramadhan6920)
 
